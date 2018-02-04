@@ -1,5 +1,5 @@
 # chat_application<br/>
-A basic web application which allows every connected user to get registered upon connection, acquire a username and allow them to write messages that are broadcasted to every connected client<br/>
+A basic web application which allows every connected user to get registered upon connection, acquire a username and allow them to write messages that are broadcast to every connected client<br/>
 
 * Built user interfaces using <b>React</b> components<br/>
 * Used <b>Redux</b> to manage data through reducers and actions<br/>
