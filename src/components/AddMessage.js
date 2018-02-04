@@ -21,7 +21,7 @@ const AddMessage = (props) => {
     )
 }
 
-AddMessage.PropTypes = {
+AddMessage.propTypes = {
     dispatch: PropTypes.func.isRequired
 }
 
