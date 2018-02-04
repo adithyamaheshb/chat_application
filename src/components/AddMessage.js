@@ -1,9 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { ADD_USER } from '../constants/ActionTypes';
 
 const AddMessage = (props) => {
-    let input
+    let input;
 
     return (
         <section id="new-message">
