@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/adithyamahesh596/projectname/branch/path/to/img.png)<br/>
+![alt text](https://raw.githubusercontent.com/adithyamahesh596/chat_application/master/public/chat.gif)<br/>
 
 # chat_application<br/>
 A basic web application which allows every connected user to get registered upon connection, acquire a username and allow them to write messages that are broadcast to every connected client<br/>
