@@ -1,4 +1,4 @@
-![Alt Text](https://cdn-images-1.medium.com/max/2000/1*J3QJAw-Yst12S6yP4rMsVg.gif)<br/>
+<img src="https://cdn-images-1.medium.com/max/2000/1*J3QJAw-Yst12S6yP4rMsVg.gif?raw=true" width="200px" height="200px"><br/>
 
 # chat_application<br/>
 A basic web application which allows every connected user to get registered upon connection, acquire a username and allow them to write messages that are broadcast to every connected client<br/>
